@@ -1,6 +1,6 @@
 # Logistics & Shipment Performance Analysis
 
-![Power BI Dashboard Preview](PowerBI/dashboard_preview.png)
+![Power BI Dashboard Preview](PowerBI/Dashboard_preview.png)
 
 ## Project Overview
 
